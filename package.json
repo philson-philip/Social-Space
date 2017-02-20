@@ -1,0 +1,27 @@
+{
+  "name": "social_space",
+  "version": "1.0.0",
+  "description": "A Platform/Bot for integrating all Social Networking accounts into a single account.",
+  "main": "app.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philson-pk/Social-Space.git"
+  },
+  "keywords": [
+    "socialspace",
+    "social_space"
+  ],
+  "author": "Philson Philip Kanayankal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philson-pk/Social-Space/issues"
+  },
+  "homepage": "https://github.com/philson-pk/Social-Space#readme",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}
